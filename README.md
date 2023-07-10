@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Demelah Minyahil
-- 👀 I’m interested in Backend Development (Database Developer)
-- 💞️ I’m looking to collaborate on MSSQL ,SSIS and SSRS ,and Spring stuff
-- 📫 you can reach me on dememan@gmail.com
+
